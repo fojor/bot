@@ -2,8 +2,8 @@ const fetch = require('node-fetch');
 const crypto = require('crypto');
 
 const domain = 'https://kuna.io';
-const key    = 'K3UbRX1i9nR7nVczxkCLcGVAOxeVYZindTkDJIoR';
-const secret = 'F8dRcHNKGU4D8HeXPUZlhrEgZVBIIL8fgnrzyoVm';
+const key    = '';
+const secret = '';
 const market = 'btcuah';
 
 module.exports = class Service 
